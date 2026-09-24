@@ -1,0 +1,1 @@
+function e(e){let t=e<0?`-`:``,n=Math.abs(e),r=Math.floor(n/100),i=String(n%100).padStart(2,`0`);return`${t}$${r.toLocaleString(`en-US`)}.${i}`}export{e as t};

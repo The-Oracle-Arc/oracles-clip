@@ -1,0 +1,1 @@
+import{t as e}from"./react-SIfiwpqq.js";import{t}from"./jsx-runtime-CM8U5GxS.js";import{t as n}from"./utils-DojpP95n.js";e();var r=t();function i({className:e,...t}){return(0,r.jsx)(`label`,{className:n(`text-sm font-medium text-ink-soft`,e),...t})}export{i as t};
